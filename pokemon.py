@@ -1,3 +1,4 @@
+# The below is not my code credit to Max and his youtube channel wrika https://www.youtube.com/watch?v=mPX_c5OORT8
 import math
 import random
 
